@@ -812,3 +812,4 @@ D:\Code\SENAI-EXERCICIOS\BackendAPI\Exo.WebApi\obj\Debug\net6.0\refint\Exo.WebAp
 D:\Code\SENAI-EXERCICIOS\BackendAPI\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 D:\Code\SENAI-EXERCICIOS\BackendAPI\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 D:\Code\SENAI-EXERCICIOS\BackendAPI\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+D:\Code\SENAI-EXERCICIOS\BackendAPI\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
